@@ -1,3 +1,5 @@
+#BOT DOES NOT WORK, WAIT FOR UPDATES
+
 ---
 # 📚 Info
 
